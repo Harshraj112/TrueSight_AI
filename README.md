@@ -1,6 +1,8 @@
 # 🧠 TrueSight_AI – Multi-Modal Deepfake Detection System  
 ### RGB + Noise + Frequency Feature Fusion for Real vs Fake Image Classification
 
+##[If you want dataset for this please download](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces)
+
 # 🔍 TrueSight_AI — Multi-Modal Deepfake Detection
 
 TrueSight_AI is a **three-branch deepfake detection system** that analyzes:
